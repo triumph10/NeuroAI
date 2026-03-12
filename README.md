@@ -1,7 +1,7 @@
-# MoodTracker: Enhancing Emotional Well-being through Technology 🧠
+# NeuroAI: Enhancing Emotional Well-being through Technology 🧠
 
 ## Overview 📖
-In a world where mental health is becoming increasingly crucial, **MoodTracker** offers a technology-driven solution to help users understand and manage their emotions. By combining **natural language processing**, **machine learning**, and **real-time sentiment analysis**, this platform provides personalized recommendations to enhance emotional well-being.
+In a world where mental health is becoming increasingly crucial, **NeuroAI** offers a technology-driven solution to help users understand and manage their emotions. By combining **natural language processing**, **machine learning**, and **real-time sentiment analysis**, this platform provides personalized recommendations to enhance emotional well-being.
 
 ### Key Features:
 - 🎭 **Mood Analysis**: Predict users' emotional states from text inputs using advanced sentiment analysis.
@@ -12,8 +12,8 @@ In a world where mental health is becoming increasingly crucial, **MoodTracker**
 
 ---
 
-## Why MoodTracker? 🤔
-Understanding emotions can be challenging. MoodTracker bridges the gap by offering:
+## Why NeuroAI? 🤔
+Understanding emotions can be challenging. NeuroAI bridges the gap by offering:
 1. **Accessibility**: Available anytime, anywhere, as a first step toward mental wellness.
 2. **Real-Time Support**: Instant feedback and suggestions for mood improvement.
 3. **Advanced Technology**: Built on cutting-edge machine learning models and APIs to ensure robust performance.
@@ -100,7 +100,7 @@ Understanding emotions can be challenging. MoodTracker bridges the gap by offeri
 ### Steps to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/triumph10/MoodTracker.git
+   git clone https://github.com/triumph10/NeuroAI.git
 
 ## License
 This project is licensed under the MIT License
